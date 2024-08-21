@@ -1,0 +1,38 @@
+ID_Cargo,Nome_cargo,Valor_Pago,Comissao
+3,"Atendimento (Adm ou Almoxarifado)",150,0
+21,"Atendimento (Adm ou Almoxarifado)-evento",200,0
+4,"Auxiliar de Cozinha",130,0
+22,"Auxiliar de Cozinha evento",150,0
+37,"Caixa Peteca",160,0
+5,"Chefe de cozinha",170,0
+23,"Chefe de cozinha evento",220,0
+24,"Churrasqueiro evento",350,0
+6,Coordenador,170,0
+25,"Coordenador evento",220,0
+7,Copeiro,130,0
+26,"Copeiro evento",150,0
+8,Cozinheiro,160,0
+27,"Cozinheiro evento",200,0
+9,Cumim,130,0
+28,"Cumim evento",150,0
+10,"Encarregado de bares",170,0
+29,"Encarregado de bares evento",220,0
+11,"Encarregado de manutenção",170,0
+30,"Encarregado Manutenção",170,0
+12,Fritador,150,0
+31,"Fritador evento",180,0
+13,Garçom,64,0
+32,"Garçom evento",180,0
+14,Instrutor,160,0
+15,Monitor,130,0
+16,Motorista,150,0
+33,"Motorista evento",200,0
+17,Op.caixa,150,0
+34,"Operador de caixa evento",180,0
+18,Plonger,130,0
+35,"Plonger evento",150,0
+19,"Professor de Natação",160,0
+38,Recepção,150,0
+39,"Recepção (Evento)",180,0
+20,"Serviços Gerais -externo",130,0
+36,"Serviços gerais evento",150,0
